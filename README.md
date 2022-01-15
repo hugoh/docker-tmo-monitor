@@ -1,8 +1,10 @@
 # Dockerized T-Mobile Home Internet monitor
 
-This is a Dockerized version of [highvolt-dev/tmo-monitor](https://github.com/highvolt-dev/tmo-monitor).
+This is a [Dockerized version](https://github.com/hugoh/docker-tmo-monitor) of [highvolt-dev/tmo-monitor](https://github.com/highvolt-dev/tmo-monitor), a "lightweight, cross-platform Python 3 script that can monitor the T-Mobile Home Internet Nokia 5G Gateway for 4G/5G bands, cellular site (tower), and internet connectivity and reboots as needed or on-demand."
 
-It's published at [hugohh/tmo-monitor](https://hub.docker.com/hugohh/tmo-monitor).
+* **Monitor source code:** <https://github.com/highvolt-dev/tmo-monitor>
+* **Container source code:** <https://github.com/hugoh/docker-tmo-monitor>
+* **Docker hub home:** <https://hub.docker.com/r/hugohh/tmo-monitor>
 
 ## Usage
 
