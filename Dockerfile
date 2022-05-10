@@ -11,6 +11,6 @@ COPY entrypoint.sh /
 
 RUN git clone --depth=1 https://github.com/highvolt-dev/tmo-monitor.git && \
     cd tmo-monitor && \
-    pip3 install -r requirements.txt
+    pip3 install .
 
 ENTRYPOINT [ "/entrypoint.sh" ]
